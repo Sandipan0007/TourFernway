@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "5c8a1d5b0190b214360dc057",
+    "name": "Sandipan Chakraborty",
+    "email": "admin@fernway.io",
+    "role": "admin",
+    "active": true,
+    "photo": "user-1.jpg",
+    "password": "pass1234"
+  },
+  {
+    "_id": "5c8a1dfa2f8fb814b56fa181",
+    "name": "Bill Bryson",
+    "email": "bill@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-2.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a1e1a2f8fb814b56fa182",
+    "name": "Paul Theroux",
+    "email": "paul@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-3.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a1ec62f8fb814b56fa183",
+    "name": "Elizabeth Gilbert",
+    "email": "eli@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-4.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a1f292f8fb814b56fa184",
+    "name": "Peter Mayle",
+    "email": "peter@example.com",
+    "role": "guide",
+    "active": true,
+    "photo": "user-5.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a1f4e2f8fb814b56fa185",
+    "name": "V.S. Naipaul",
+    "email": "naipul@example.com",
+    "role": "guide",
+    "active": true,
+    "photo": "user-6.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a201e2f8fb814b56fa186",
+    "name": "Freya Stark",
+    "email": "freya@example.com",
+    "role": "guide",
+    "active": true,
+    "photo": "user-7.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a20d32f8fb814b56fa187",
+    "name": "William Least Heat-Moon",
+    "email": "william@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-8.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a211f2f8fb814b56fa188",
+    "name": "Peter Hessler",
+    "email": "hessler@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-9.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a21d02f8fb814b56fa189",
+    "name": "Jon Krakauer",
+    "email": "jon@example.com",
+    "role": "lead-guide",
+    "active": true,
+    "photo": "user-10.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a21f22f8fb814b56fa18a",
+    "name": "Paulo Coelho",
+    "email": "paulo@example.com",
+    "role": "lead-guide",
+    "active": true,
+    "photo": "user-11.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a22c62f8fb814b56fa18b",
+    "name": "Cheryl Strayed",
+    "email": "cheryl@example.com",
+    "role": "lead-guide",
+    "active": true,
+    "photo": "user-12.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a23412f8fb814b56fa18c",
+    "name": "Stephen King",
+    "email": "king@example.com",
+    "role": "guide",
+    "active": true,
+    "photo": "user-13.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a23c82f8fb814b56fa18d",
+    "name": "Peter Godwin",
+    "email": "god@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-14.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a23de2f8fb814b56fa18e",
+    "name": "Rolf Potts",
+    "email": "rolf@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-15.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a24282f8fb814b56fa18f",
+    "name": "Salman Rushdie",
+    "email": "salman@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-16.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a24402f8fb814b56fa190",
+    "name": "Peter Carey",
+    "email": "care@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-17.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a245f2f8fb814b56fa191",
+    "name": "David Sedaris",
+    "email": "david@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-18.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a24822f8fb814b56fa192",
+    "name": "Colin Thubron",
+    "email": "colin@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-19.jpg",
+    "password": "test1234"
+  },
+  {
+    "_id": "5c8a24a02f8fb814b56fa193",
+    "name": "Amitav Ghosh",
+    "email": "amitav@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-20.jpg",
+    "password": "test1234"
+  }
+]

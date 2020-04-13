@@ -1,0 +1,144 @@
+[
+  {
+    "id": 0,
+    "name": "The Beauty of Bengal",
+    "duration": 5,
+    "maxGroupSize": 25,
+    "difficulty": "Easy",
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 37,
+    "price": 29070,
+    "summary": "West Bengal tours, covering various aspects of one of India's culturally richest states",
+    "description": "Fernway has come up with a variety of West Bengal tours, covering various aspects of one of India's culturally richest states. Be it local traditions like the celebration of Durga Pooja or colonial legacy in the form of memorials, Kolkata, the state capital, displays it with pride. Go on a boat ride or wildlife safari with our West Bengal packages in the vast mangrove forest, called Sundarbans, where you can spot tigers, dolphins and saltwater crocodiles. Similarly, you may spot an endangered one-horned rhino in the Dooars grasslands. One of the best places to beat the summer heat or spend a honeymoon during West Bengal holidays is Darjeeling. Take the famous toy train, tour a tea estate, go rafting in the Rangeet or Teesta River or explore the hordes of trekking trails through the mountains. Staying at a plush hotel or a comfortable lodge, overlooking Mount Kanchenjunga, will surely relieve you all stress.",
+    "imageCover": "tour-1-cover.jpg",
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+    "startDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+  },
+
+  {
+    "id": 1,
+    "name": "The Blissful Ladakh",
+    "duration": 7,
+    "maxGroupSize": 15,
+    "difficulty": "Medium",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 23,
+    "price": 45080,
+    "summary": "Ladakh tours, covering  mountainous region and the coldest desert in the world",
+    "description": "Ladakh, the land of jagged peaks and barren landscape is alluring and awe-inspiring. Hidden behind this harsh and forbidding façade is an ancient civilization and captivating people. Beyond the old frontiers lies the land of wilderness with its unaltered character and overwhelming natural beauty beckoning the more intense and adventurous of travelers. This awesome wildness and magic belongs to that great land of towering mountains and Buddhist simplicity-Ladakh.",
+    "imageCover": "tour-2-cover.jpg",
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "startDates": ["2021-06-19,10:00", "2021-07-20,10:00", "2021-08-18,10:00"]
+  },
+
+  {
+    "id": 2,
+    "name": "The Magical Himalayas",
+    "duration": 4,
+    "maxGroupSize": 10,
+    "difficulty": "Difficult",
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 13,
+    "price": 55997,
+    "summary": "Himalayas tours,covering the dazzling sunshine, which defines the aura of Northeastern India.",
+    "description": "From the entwined mountains peeps the dazzling sunshine, which defines the aura of Northeastern India. Nestled in the lap of nature, Darjeeling is famed for its expansive tea gardens, lofty peaks and the world-famous Darjeeling Himalayan Railway. Gangtok, on the other hand, is the fulcrum of Tibetan Buddhist culture and is home to several monasteries, temples and flower nurseries. Such a mix of natural and cultural attractions makes Northeastern India, a tourist hotspot.",
+    "imageCover": "tour-3-cover.jpg",
+    "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+    "startDates": ["2022-01-05,10:00", "2022-02-12,10:00", "2023-01-06,10:00"]
+  },
+
+  {
+    "id": 3,
+    "name": "The Royalty In Rajasthan",
+    "duration": 9,
+    "maxGroupSize": 20,
+    "difficulty": "Medium",
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 54,
+    "price": 61897,
+    "summary": "Rajasthan tours, covering the historical forts, palaces, art & culture.",
+    "description": "The Royal Rajasthan will provide you the great image of historical forts, palaces, art & culture. Full of heritage spots and views attracts the tourist’s soul. The places like Pink City – Jaipur, Blue City – Jodhpur, Lake City – Udaipur, Golden City – Jaisalmer, India’s Famous Ajmer Sharif Dargah, World famous Brahma Temple – Pushkar, Ranthambore, Mount Abu, Food City – Bikaner. Plan for a wonderful royal tour to fulfil your dream in one shot for any Customized Package, Hotel Booking, Car Rental Services, Corporate Tour Package, Theme Tour – Pilgrimage Tour, Yoga Tour, Eco Friendly Tour, Educational Tour, Honeymoon Tour Packages etc. our services are ready to provide you an amazing life time experience.",
+    "imageCover": "tour-4-cover.jpg",
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": ["2021-03-11,10:00", "2021-05-02,10:00", "2021-06-09,10:00"]
+  },
+  {
+    "id": 4,
+    "name": "The Exotic Andaman",
+    "duration": 10,
+    "maxGroupSize": 15,
+    "difficulty": "Easy",
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 19,
+    "price": 74497,
+    "summary": "Andaman tours, covering the exotic emerald isle with very blue seas and virgin forests and many more!",
+    "description": "Andaman, the exotic emerald isle with very blue seas and virgin forests, white glistening sandy beaches and the seclusion from the main land, is a coveted destination for people all across the world. Here the food is not very expensive. Tasty and hygienic meals are served at beach shacks where you can eat to your heart’s content along with your favourite drink. The people of the islands are very simple and down-to-earth. They would always make you feel at home, cosy and comfortable. The tropical weather with pleasant sunny beaches, warm waters, crystal clear waters full of animated sea life and exotic corals will make your vacation full of joy and fun.",
+    "imageCover": "tour-5-cover.jpg",
+    "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+    "startDates": ["2021-08-05,10:00", "2022-03-20,10:00", "2022-08-12,10:00"]
+  },
+
+  {
+    "id": 5,
+    "name": "The Mystic Bhutan",
+    "duration": 14,
+    "maxGroupSize": 8,
+    "difficulty": "Difficult",
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 28,
+    "price": 32597,
+    "summary": "Bhutan tours, covering its untouched mountains, serenity, and vibrancy.",
+    "description": " Bhutan - the general prosperity of the country is measured by the ‘Gross National Happiness’ index, explained by its four pillars - sustainable development, good governance, cultural preservation and environmental protection. Also, continually ranked as the happiest country in Asia and the eighth-happiest country in the world according to a survey by Business Week.Dwelling on its tourism industry, Bhutan attracts many travelers from across the globe because of its untouched mountains, serenity, and vibrancy. The Punakha Dzong- arguably the most beautiful Dzong in the country, Trashi Chhoe Dzong, the Paro Dzong and the Taktshang Goemba also known as the Tiger's Nest Monastery are the main attractions of the country.",
+    "imageCover": "tour-6-cover.jpg",
+    "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
+    "startDates": ["2021-07-19,10:00", "2021-09-06,10:00", "2022-03-18,10:00"]
+  },
+
+  {
+    "id": 6,
+    "name": "The Graceful Kerala",
+    "duration": 5,
+    "maxGroupSize": 8,
+    "difficulty": "Easy",
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 35,
+    "price": 58927,
+    "summary": "Kerala tours, covering the tropical Malabar Coast of southwestern India, is one of the most popular tourist destinations in the country.",
+    "description": "Kerala - home to the languid backwaters, long coastlines, sprawling tea gardens, and colourful dance forms, is also famously known as 'God?s Own Country'. Located on the Malabar coast of Southern India, it is a tiny sliver of paradise that is also one of the best tropical tourist destinations one can look for. Whether you want to bask in the sun and sand of the palm tree-lined Kovalam beach or want to take a hike to Munnar hill station, or even if you're going to walk down the bustling streets of Kochi, Kerala has everything on offer to take your pick from!",
+    "imageCover": "tour-7-cover.jpg",
+    "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
+    "startDates": ["2021-02-12,10:00", "2021-04-14,10:00", "2021-09-01,10:00"]
+  },
+
+  {
+    "id": 7,
+    "name": "The Offbeat Goa",
+    "duration": 9,
+    "maxGroupSize": 8,
+    "difficulty": "Medium",
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 28,
+    "price": 31997,
+    "summary": "Goa tours, covering its brilliant beaches, scrumptious food and Portuguese heritage. ",
+    "description": "Lying on the west coast, Goa is one of the smallest states in India known for its brilliant beaches, scrumptious food and Portuguese heritage. Panjim, the capital city located in the centre is well-connected with an international airport and roads and trains run from North to South part of Goa.With a coastline stretching for over 100 kilometres, Goa has numerous beaches that attract millions of visitors. While Baga and Calangute are more popular among the Indian family crowd, Anjuna and Arambol draw a lot of foreign tourists. The beaches in South Goa are relatively lesser explored, but some of them like Agonda and Palolem are more beautiful. ",
+    "imageCover": "tour-8-cover.jpg",
+    "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
+    "startDates": ["2021-03-23,10:00", "2021-10-25,10:00", "2022-01-30,10:00"]
+  },
+
+  {
+    "id": 8,
+    "name": "The Mesmerising Mysore",
+    "duration": 3,
+    "maxGroupSize": 12,
+    "difficulty": "Easy",
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 33,
+    "price": 42427,
+    "summary": "Mysore tours, covering a Blend of Medieval and Natural Beauty",
+    "description": "Mysore city was the capital of the old royal Mysore province. The word Mysore expands to Mahishasurana Ooru which means the town of Mahishasura. The story goes that the demon Mahishasura was killed by goddess Chamundeshwari atop the Chamundi hill near Mysore, hence the name. Ever since, the Mysore royal family has worshipped Chamundeshwari as the palace deity. Hills dedicated to her stand at the eastern end of Mysore town today.The Wodeyar family ruled Mysore since 14th century except for a short period of 40 years when Hyder Ali and Tipu Sultan were the rulers. Mysore has never failed to mesmerize the tourists with its quaint charm, rich heritage, magnificent palaces, beautifully laid-out gardens, imposing buildings, broad shady avenues and sacred temples. The charm of this city leaves no one untouched.",
+    "imageCover": "tour-9-cover.jpg",
+    "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
+    "startDates": ["2021-12-16,10:00", "2022-01-16,10:00", "2022-12-12,10:00"]
+  }
+]
